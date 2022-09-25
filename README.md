@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A full stack developer from Turkey</h3>
-<h4>I have worked on improving myself in the field of machine learning along with web applications. I have developed many projects using .Net MVC, Vue.js, .Net Core, MSSQL, PostgreSQL, MongoDB. I have worked with version control systems such as Tfs, Git. I am responsible, I am used to the culture of working remotely, open to learning and the use of new technologies.</h4>
+<h4>I have been involved in many projects both institutionally and as a freelance and I have done project marketing. I am experienced and have a good active conversation with customers.
+ I had ORACLE 11g database installation and management as an enterprise and MSSQL, SQLite, MongoDB, MySQL and AWS Cloud Experience as a freelancer.
+ I do modular software development in Java SE as an enterprise, but on the freelance side, I have advanced knowledge in C#, Python and JavaScript,
+ I can develop Web programs, REST/WebAPIs, Mobile applications in these languages. In addition to these, I do not know HTML, Jquery, Ajax, AngularJS, NextJS, ExpressJS, React.
+ I wouldn't say I'm good at Web Projects. I am a strong information technology specialist, skilled in software development, architectural creation, system administration.</h4>
 
 - 📫 How to reach me **omerbakiciol@gmail.com**
 
